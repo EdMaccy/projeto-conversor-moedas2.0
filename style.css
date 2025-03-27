@@ -82,7 +82,7 @@ section {
     align-items: center;
 }
 
-.currency-euro {
+.currency-euro, .currency-libra, .currency-bitcoin {
     display: none;
 }
 
